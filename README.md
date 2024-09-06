@@ -26,6 +26,7 @@ Actor 1, Actor 2, Actor 3: Main actors featured in the movie
 ## Project Workflow:
 
 1. Data preparation - By loading and cleaning dataset
+   
 ![image](https://github.com/user-attachments/assets/c29b776a-fcb4-4296-9f2b-2f4711fd5600)
 
 2. Exploratory Data Analysis (EDA) - Descriptive data analysis, Data visualization, Correlation Analysis
