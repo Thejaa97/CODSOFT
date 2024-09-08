@@ -1,4 +1,4 @@
-### CODSOFT -TASK 2 -Movie Rating Prediction using Python 🎬
+### TASK 2 -Movie Rating Prediction using Python 🎬
 
 ## Project Overview: 
 
@@ -12,14 +12,14 @@ In today’s entertainment industry, movie ratings play a significant role in de
 
 ### The dataset includes the following features:
 
-### Name: Movie title
-### Year: Release year
-### Duration: Length of the movie in minutes
-### Genre: Genre(s) of the movie
-### Rating: The actual rating given to the movie
-### Votes: Number of votes received
-### Director: Director of the movie
-### Actor 1, Actor 2, Actor 3: Main actors featured in the movie
+> Name: Movie title
+> Year: Release year
+> Duration: Length of the movie in minutes
+> Genre: Genre(s) of the movie
+> Rating: The actual rating given to the movie
+> Votes: Number of votes received
+> Director: Director of the movie
+> Actor 1, Actor 2, Actor 3: Main actors featured in the movie
 
 ## Project Workflow:
 
