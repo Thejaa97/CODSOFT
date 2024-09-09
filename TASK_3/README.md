@@ -62,3 +62,4 @@ The Iris flower classification project is a fundamental machine learning task th
 
 ## Conclusion: 
 
+Logistic Regression, K-Nearest Neighbors, Support Vector Machine, Decision Tree, and Random Forest all exhibit high accuracy for the Iris flower classification task. According to the model comparison, we can see KNN and SVM models have 100% accuracy than other models. Three models out of five fitted models showed that for class 2, there is 1 misclassification (an instance of class 2 was predicted as class 1). 
