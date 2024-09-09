@@ -44,7 +44,6 @@ The Iris flower classification project is a fundamental machine learning task th
 ## Results: 
 ![image](https://github.com/user-attachments/assets/f6c0ed4c-bb6d-4141-af14-2a0cd20ae6c7) 
 ![image](https://github.com/user-attachments/assets/d066abf8-1b43-4faf-99b7-d89be74ed162) 
-![image](https://github.com/user-attachments/assets/02643348-542a-4ee7-92bf-dcce39deb7e2) 
 ![image](https://github.com/user-attachments/assets/ee6583b6-e3de-4842-b2d6-6416582a2b66) 
 ![image](https://github.com/user-attachments/assets/5b6de92e-9f3b-454e-b92a-24b134fff38c)
 ![image](https://github.com/user-attachments/assets/73cebe62-2f6f-43cf-bfa5-4d4f15a83dd5)
